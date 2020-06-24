@@ -1,5 +1,9 @@
 # Multi-Label Classification of Tweets with Optimized Convolution Neural Network using Binary Particle Swarm Optimization Algorithm
 
+Pre-trained word embeddings for Skip-gram and FastText : (download from the link)
+https://drive.google.com/drive/folders/1B46IpYDpfRLQtI_7TAjNwo3rZko6GiXb
+
+
 The objective of this project is to classify given tweets into various categories and to detect the most relevant class of the given tweet. The classification can be based on categories or emotions of public.
 
 For the sake of simplicity, we say a tweet contains keywords of health if it has some name of medicine or disease associated with it then we decide that tweet to be a health related tweet. So, the task is to classify tweets based on the keywords in the tweet.
